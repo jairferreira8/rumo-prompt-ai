@@ -1,0 +1,6 @@
+participante,t1_seg,t1_ok,t2_seg,t2_ok,t3_seg,t3_ok,q1,q2,q3,q4,q5,comentario
+P1,32,sim,21,sim,48,sim,5,4,4,5,4,menu podia ter exemplo de pergunta com idade
+P2,45,sim,26,sim,62,nao,4,4,3,4,4,a resposta da CNH podia destacar a faixa de idade
+P3,28,sim,17,sim,39,sim,5,5,5,4,5,
+P4,51,sim,30,sim,55,sim,4,3,4,4,4,respostas um pouco longas por causa do aviso
+P5,37,sim,22,sim,44,sim,5,4,4,3,4,deixar a data da ficha mais visivel
