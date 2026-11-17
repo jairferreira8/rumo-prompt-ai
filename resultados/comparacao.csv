@@ -1,0 +1,9 @@
+,v1 (antes),v2 (depois)
+ACERTO,20.0,23.0
+PARCIAL,4.0,3.0
+ERRO,2.0,0.0
+acerto_estrito_%,76.9,88.5
+acerto_ponderado_%,84.6,94.2
+cita_ficha_%,95.5,95.5
+vazamentos_pii,0.0,0.0
+tempo_medio_s,1.55,5.03
